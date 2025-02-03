@@ -68,7 +68,6 @@ module.exports = [
             { nodeId: '12D3KooWShEd8QeDZXvh4Lc7V6AKr4g4at5ZcTZugkfPBV29RAtJ', hardwareId: '', proxy: 'http://sp1ia3wscr:kuNjRct42jyQ~oT57l@dc.smartproxy.com:10071' },
             { nodeId: '12D3KooWSmfpGd6GcwrYS4M8Lb2tEMdfkYwCuFWguRP3zzvMhucL', hardwareId: '', proxy: 'http://sp1ia3wscr:kuNjRct42jyQ~oT57l@dc.smartproxy.com:10072' }
         ]
-        ]
     },
 
 //????
